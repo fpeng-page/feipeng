@@ -21,11 +21,17 @@ email: "feipeng.chn@foxmail.com"
 
 short_bio_text_justify: false
 short_bio: >-
-  #<p>
-  #  A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  #</p>
   <p>
-    彭飞是北京理工大学管理科学与工程专业在读博士生，攻读期间致力于商务智能与数据挖掘方向，研究基于人工智能的健康管理技术，专业基础知识和数据挖掘方法掌握扎实。以第一作者身份发表FT50期刊1篇、JCR Q1（中科院top）期刊二轮返修1篇，其他工作论文多篇。发表国际国内会议论文7篇，并在会议上做口头汇报。参与科研项目5项，其中主持北京理工大学研究生项目1项，参与国家自然基金委重点项目等4项。2022至2024年间在海外联培访问2年。获得学术类奖项11项，同时承担多个期刊和会议的匿名评审人，并参与筹办多个国内国际会议。
+    彭飞是北京理工大学管理科学与工程专业在读博士生，2022-2024年在美国北卡罗莱纳大学夏洛特分校联合培养两年，以第一作者身份发表FT50期刊1篇、JCR Q1（中科院top）期刊二轮返修1篇，国际国内会议论文7篇，其他工作论文多篇。。
+  </p>
+  <p>
+    研究兴趣在于商务智能与数据挖掘，主要研究基于人工智能的健康管理技术，主要研究方向包括：
+  </p>
+  <p>
+    • 设计科学
+    • 深度学习
+    • 智慧健康管理
+    • 社交媒体分析
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,14 +41,18 @@ portrait_caption: >-
 education:
 - name: 北京理工大学
   logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    管理科学与工程 <br/>
-    硕博连读
+  dept: 管理科学与工程
+  position: 硕博连读
   date: Sep. 2019 - present
+- name: University of North Carolina at Charlotte
+  logo: /assets/images/badges/PKU_red.png
+  dept: Business Information Systems and Operation Management
+  position: 联合培养博士
+  date: Aug. 2022 - Aug. 2024
 - name: 北京理工大学
   logo: /assets/images/badges/PKU_red.png
-  position: 信息管理与信息系统 <br/>
-            管理学学士
+  dept: 信息管理与信息系统
+  position: 管理学学士
   date: Sep. 2015 - Jul. 2019
 
 # experience:
